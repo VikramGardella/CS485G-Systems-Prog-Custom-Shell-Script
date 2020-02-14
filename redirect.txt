@@ -1,0 +1,5 @@
+pid is 25769
+waiting for child, my pid is: 25769
+pid is 0
+Attempting to execute child process and adding to list of processes.
+Error in execution.
